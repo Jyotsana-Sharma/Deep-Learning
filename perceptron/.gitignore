@@ -1,5 +1,5 @@
 .venv
-.config
-.artifcats
-.logs
-./research/perceptron_data_placement.csv
+/config/
+/artifacts/
+/logs/
+/research/perceptron_data_placement.csv
