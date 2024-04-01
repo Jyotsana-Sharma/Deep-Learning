@@ -2,3 +2,4 @@
 .config
 .artifcats
 .logs
+./research/perceptron_data_placement.csv
