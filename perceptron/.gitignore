@@ -1,5 +1,5 @@
 .venv
 /config/
 /artifacts/
-/logs/
+/logs
 /research/perceptron_data_placement.csv
